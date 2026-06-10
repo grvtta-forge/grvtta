@@ -16,4 +16,5 @@ Disponibile su *[Cults3D](https://cults3d.com/en/3d-model/gadget/yamaha-yzf-r-12
 <img width="940" height="1061" alt="image" src="https://github.com/user-attachments/assets/b05c73c7-da81-4d55-9d27-ffa11ad16563" />
 <img width="1385" height="909" alt="image" src="https://github.com/user-attachments/assets/9d39ea05-e80a-4b7f-8cf3-850475d63d30" />
 
-
+## Ventilatore (solo design)
+<img width="1274" height="718" alt="image" src="https://github.com/user-attachments/assets/f3d05bea-b22c-4f0f-a030-379c7a9c2590" />
